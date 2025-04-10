@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ciência_Da_Computacao"
+            android:icon="@drawable/address_book_svgrepo_com"
+            android:title="@string/menu_ciência_Da_Computacao" />
+        <item
+            android:id="@+id/nav_galeria"
+            android:icon="@drawable/galeria_img"
+            android:title="@string/menu_galeria" />
+        <item
+            android:id="@+id/nav_analise_e_desenvolvimento_de_sistemas"
+            android:icon="@drawable/document_svgrepo_com"
+            android:title="@string/menu_analise_e_desenvolvimento_de_sistemas" />
+        <item
+            android:id="@+id/nav_quem_somos"
+            android:icon="@drawable/quem_somos_img"
+            android:title="@string/menu_quem_Somos" />
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@drawable/contatos_img"
+            android:title="@string/menu_contato" />
+        <item
+            android:id="@+id/nav_bem_estar"
+            android:icon="@drawable/imc"
+            android:title="@string/menu_bem_estar" />
+    </group>
+</menu>

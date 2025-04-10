@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ativ.02</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Universidade Cruzeiro do Sul</string>
+    <string name="nav_header_subtitle">Matheus Fernando Celmi Dos Santos</string>
+    <string name="nav_header_subtitle2">Gustavo Rocha Gomes da Silva</string>
+    <string name="nav_header_desc">Barra navegação</string>
+    <string name="action_exit">Sair</string>
+
+    <string name="menu_ciência_Da_Computacao">Ciência da Computação</string>
+    <string name="menu_galeria">Galeria</string>
+    <string name="menu_analise_e_desenvolvimento_de_sistemas">Análise e Desenvolvimento de Sistemas</string>
+    <string name="menu_quem_Somos">Quem Somos</string>
+    <string name="menu_contato">Contato</string>
+    <string name="menu_bem_estar">Bem Estar do Aluno</string>
+</resources>
